@@ -1,0 +1,6 @@
+[submodule "backend-go"]
+	path = backend-go
+	url = https://github.com/Sentinent-AI/backend-go
+[submodule "frontend-angular"]
+	path = frontend-angular
+	url = https://github.com/Sentinent-AI/frontend-angular
